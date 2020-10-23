@@ -1,0 +1,28 @@
+.firstbox {
+  background-color: yellow;
+  width: 600px;
+  height: 400px;
+}
+
+.secondbox {
+  background-color: pink;
+  width: 400px;
+  height: 250px;
+}
+
+.highlight-text {
+  color: dimgrey;
+  font-size: 30px;
+}
+
+.box3 {
+  background-color: grey;
+  width: 100px;
+  height: 300px;
+}
+
+.box4 {
+  background-color: purple;
+  width: 350px;
+  height: 120px;
+}
